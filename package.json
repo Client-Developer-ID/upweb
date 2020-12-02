@@ -1,0 +1,35 @@
+{
+  "name": "not-a-dev-upweb",
+  "version": "0.1.0",
+  "description": "Not a Dev Uptime Website Project",
+  "main": "src/UpWeb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Client-Developer-ID/upweb.git"
+  },
+  "keywords": [
+    "uptime",
+    "clidev",
+    "not-a-dev",
+    "notadev",
+    "upweb",
+    "uptimeweb"
+  ],
+  "author": "Mednoob",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Client-Developer-ID/upweb/issues"
+  },
+  "homepage": "https://github.com/Client-Developer-ID/upweb#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ejs": "^3.1.5",
+    "enmap": "^5.8.2",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
