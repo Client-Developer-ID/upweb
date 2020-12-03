@@ -23,4 +23,4 @@ Just import this repository, and done!
 ![Homepage](https://cdn.discordapp.com/attachments/671666700847939604/783849738079305779/unknown.png)
 
 - Logging
-![Logging](https://cdn.discordapp.com/attachments/671666700847939604/783850173029416990/unknown.png)
+![Logging](https://cdn.discordapp.com/attachments/671666700847939604/783850423265394699/unknown.png)
