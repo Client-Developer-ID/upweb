@@ -1,4 +1,5 @@
 # Not a Dev Simple Uptime Website Project
+A simple uptime website project created with Node.Js, Express, and EJS
 This project is created by Staff #4, Mednoob in just approximately 1 - 2 hours
 
 ## How to Use
