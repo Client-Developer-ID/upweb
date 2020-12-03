@@ -15,3 +15,8 @@ and then see `localhost:3000`
 
 ### Using Glitch
 Just import this repository, and done!
+
+
+## Display Example
+
+![Display Homepage](https://cdn.discordapp.com/attachments/671666700847939604/783849738079305779/unknown.png)
